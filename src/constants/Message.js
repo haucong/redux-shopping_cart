@@ -1,0 +1,5 @@
+export const MSG_ADD_TO_CART_SUCCESS = 'MUA HÀNG THÀNH CÔNG !'; 
+export const MSG_UPDATE_CART_SUCCESS = 'CẬP NHẬT VỎ HÀNG THÀNH CÔNG !'; 
+export const MSG_DELETE_PRODUCT_IN_CART_SUCCESS = 'XÓA SẢN PHẨM KHỎI GIỎ HÀNG THÀNH CÔNG !'; 
+export const MSG_CART_EMPTY = 'CHƯA CÓ SẢN PHẨM NÀO TRONG GIỎ HÀNG !'; 
+export const MSG_WELLCOME = 'CHÀO MỪNG ĐẾN VỚI SHOPPING ONLINE !'; 
